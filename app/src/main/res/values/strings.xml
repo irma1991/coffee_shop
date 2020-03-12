@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Coffee Shop</string>
+    <string name="app_title1">Register</string>
+
+    <string name="register_email">E.mail</string>
+    <string name="register_name">Name</string>
+    <string name="register_password">Password</string>
+    <string name="register_phone">Phone</string>
+    <string name="register_register_btn">Register</string>
+
+    <string name="register_invalid_email_message">Wrong email</string>
+
+    <string name="login_username">Username:</string>
+    <string name="login_password">Password:</string>
+    <string name="login_remember_me">Remember me</string>
+    <string name="login_login_btn">Login</string>
+    <string name="login_register_btn">Register</string>
+
+    <string name="login_invalid_credentials_message">Wrong username or password</string>
+
+
+    <string name="search_new_entry_title">Coffee Order</string>
+    <string name="search_new_entry_button">Order your coffee</string>
+
+    <string name="new_entry_coffee_type">Coffee Type: </string>
+    <string name="new_entry_coffee_type1">Cappuccino</string>
+    <string name="new_entry_coffee_type2">Latte</string>
+    <string name="new_entry_coffee_type3">Expresso</string>
+    <string name="new_entry_maintenance_drinking_coffee">Inside: </string>
+    <string name="new_entry_maintenance_drinking_coffee2">Outside</string>
+    <string name="new_entry_maintenance_drinking_coffee3">To Go</string>
+    <string name="new_entry_dinner_price">Price: </string>
+
+    <string name="new_entry_maintenance_payment_type">Payment: </string>
+
+    <string-array name="new_entry_maintenance_payment_type">
+        <item>Cash</item>
+        <item>Card</item>
+        <item>moQ</item>
+        <item>bitCoin</item>
+    </string-array>
+
+    <string name="new_entry_button">Order your coffee</string>
+
+    <string name="new_entry_database_info">Prašome palaukti, įrašas siunčiamas į duomenų bazę</string>
+    <string name="new_entry_drink_place">Where are you going to drink your coffee?:</string>
+
+</resources>
